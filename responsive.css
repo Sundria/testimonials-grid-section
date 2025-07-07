@@ -1,0 +1,9 @@
+@media (max-width: 1000px) {
+    .cards {
+        margin: 40px auto;
+        padding: 0 30px;
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}
